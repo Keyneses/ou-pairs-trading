@@ -83,7 +83,7 @@ ETF 端再受 90% 可用现金约束。默认最多 8 手期货、最少 100 份
 ## 2. 快速开始
 
 ```bash
-git clone <your-repo-url> ou-pairs-trading
+git clone https://github.com/Keyneses/ou-pairs-trading.git
 cd ou-pairs-trading
 
 python -m venv .venv

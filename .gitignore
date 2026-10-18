@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Data and generated artifacts
+data/*.csv
+data/*.parquet
+output/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep generated figures in docs/figures tracked for the README
+!docs/figures/
